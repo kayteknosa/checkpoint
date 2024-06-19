@@ -1,0 +1,22 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: lightblue;
+}
+  
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul{ 
+    list-style: none;
+    display: flex;
+}
+
+header nav ul li {
+    padding-left: 5px;
+}
+
+    
